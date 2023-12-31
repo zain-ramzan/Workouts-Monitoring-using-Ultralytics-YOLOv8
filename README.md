@@ -8,3 +8,8 @@
 * <b>Personalization:</b> Customized workout plans based on individual data for effectiveness.
 * <b>Health Awareness:</b> Early detection of patterns indicating health issues or overtraining.
 * <b>Informed Decisions:</b> Data-driven decisions for adjusting routines and setting realistic goals.
+## How to use?
+* Clone this repo
+* cd Workouts-Monitoring-using-Ultralytics-YOLOv8
+* Install Ultralytics and Add video link into the code.
+* Run the code, Thats it!
