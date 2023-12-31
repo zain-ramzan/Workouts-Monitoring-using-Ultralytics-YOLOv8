@@ -1,5 +1,5 @@
 ## Output Result
-![workout detection](https://github.com/zain-ramzan/Workouts-Monitoring-using-Ultralytics-YOLOv8/assets/64620737/ef50d27a-4d14-456d-9a2c-a9e2e8e8216e)
+![Pleae wait...](https://github.com/zain-ramzan/Workouts-Monitoring-using-Ultralytics-YOLOv8/assets/64620737/ef50d27a-4d14-456d-9a2c-a9e2e8e8216e)
 
 
 ## Advantages of Workouts Monitoring?
